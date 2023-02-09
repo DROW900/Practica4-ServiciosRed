@@ -52,7 +52,7 @@ def mandarArchivo():
 while(True):
     os.system("clear");
     print("Practica 4. ");
-    print("Muñoz Carbajal Carlos Eduardo")
+    print("")
     print("4CM13");
     print("1. Generar archivo de configuración");
     print("2. Descargar documento de configuración");
